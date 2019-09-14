@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.math_test">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Testiardyunq" android:screenOrientation="portrait"></activity>
+        <activity android:name=".test" android:screenOrientation="portrait"/>
+        <activity android:name=".xndirner" android:screenOrientation="portrait"/>
+        <activity android:name=".zangvac" android:screenOrientation="portrait"/>
+        <activity android:name=".erkarutyun" android:screenOrientation="portrait"/>
+        <activity android:name=".jamanak" android:screenOrientation="portrait"/>
+        <activity android:name=".Activity7" android:screenOrientation="portrait"/>
+        <activity android:name=".bazmapatkum2" android:screenOrientation="portrait" />
+        <activity android:name=".bajanum2" android:screenOrientation="portrait"/>
+        <activity android:name=".hanum2" android:screenOrientation="portrait"/>
+        <activity android:name=".gum2" android:screenOrientation="portrait"/>
+        <activity android:name=".bazmapatkum1" android:screenOrientation="portrait"/>
+        <activity android:name=".bajanum1" android:screenOrientation="portrait"/>
+        <activity android:name=".hanum1" android:screenOrientation="portrait"/>
+        <activity android:name=".Activity6" android:screenOrientation="portrait"/>
+        <activity android:name=".Activity5" android:screenOrientation="portrait"/>
+        <activity android:name=".gum1" android:screenOrientation="portrait"/>
+        <activity android:name=".bazmapatkum" android:screenOrientation="portrait"/>
+        <activity android:name=".bajanum" android:screenOrientation="portrait"/>
+        <activity android:name=".hanum" android:screenOrientation="portrait"/>
+        <activity android:name=".gum" android:screenOrientation="portrait"/>
+        <activity android:name=".Activity4" android:screenOrientation="portrait"/>
+        <activity android:name=".Activity3" android:screenOrientation="portrait"/>
+        <activity android:name=".Activity2" android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
